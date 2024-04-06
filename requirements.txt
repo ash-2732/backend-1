@@ -1,0 +1,5 @@
+npm i dotenv
+npm i -D nodemon
+npm i -D prettier
+npm i express
+npm i mongoose
