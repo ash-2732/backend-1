@@ -1,2 +1,1 @@
-This is a backend series
-We are going to learn 
+This is a backend series of node.js
