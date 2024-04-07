@@ -1,7 +1,7 @@
 
 # VideoTube
 
-Basically this is a backend series where i have explained and write the code such as youtube works.
+Basically this is a backend series where i have used node.js , express.js , mongodb for database.I have learned this tutorial and spent a lot of time for making it complete
 
 
 
@@ -33,5 +33,4 @@ Start the server
 ```bash
   npm run dev
 ```
-
 
